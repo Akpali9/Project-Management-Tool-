@@ -1,0 +1,14 @@
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+    }
+    label {
+      display: inline-block;
+      width: 100px;
+    }
+    input, button {
+      margin-bottom: 10px;
+    }
+    #projectList {
+      margin-top: 20px;
+    }
